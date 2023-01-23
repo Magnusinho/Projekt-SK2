@@ -1,0 +1,3 @@
+/home/pawcio/CLionProjects/untitled222/cmake-build-debug/CMakeFiles/untitled222.dir
+/home/pawcio/CLionProjects/untitled222/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pawcio/CLionProjects/untitled222/cmake-build-debug/CMakeFiles/rebuild_cache.dir
